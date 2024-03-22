@@ -111,7 +111,7 @@
     "lodash": "^4.17.11",
     "milkdrop-preset-converter-aws": "^0.1.6",
     "music-metadata-browser": "^0.6.1",
-    "postcss": "^7.0.14",
+    "postcss": "^8.4.31",
     "postcss-loader": "^3.0.0",
     "prettier": "^1.16.4",
     "puppeteer": "^1.15.0",
